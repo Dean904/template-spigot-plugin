@@ -1,0 +1,4 @@
+name: 'TemplatePlugin'
+version: 1.0.0
+main: bor.mc.template.SamplePlugin
+api-version: 1.19.4
